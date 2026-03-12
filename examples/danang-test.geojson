@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "Cầu Rồng",
+        "volume": 150,
+        "description": "Điểm đo lưu lượng - Cầu Rồng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.2217, 16.0617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "Ngã ba Hùng Vương",
+        "volume": 95,
+        "description": "Điểm đo lưu lượng - Hùng Vương"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.215, 16.068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "Bến xe Trung tâm",
+        "volume": 120,
+        "description": "Điểm đo lưu lượng - Bến xe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.2045, 16.0492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "Bãi biển Mỹ Khê",
+        "volume": 45,
+        "description": "Điểm đo lưu lượng - Mỹ Khê"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.252, 16.061]
+      }
+    }
+  ]
+}
