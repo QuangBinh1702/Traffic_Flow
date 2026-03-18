@@ -1,0 +1,141 @@
+<html>
+<head>
+    <title>Madrid Traffic Sensors</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+        }
+
+        #control-panel {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: rgba(30, 30, 30, 0.88);
+            color: #fff;
+            padding: 16px 20px;
+            border-radius: 10px;
+            width: 260px;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-size: 14px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+        }
+
+        #control-panel h2 {
+            margin: 0 0 10px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        #control-panel .time-display {
+            font-size: 28px;
+            font-weight: 700;
+            text-align: center;
+            margin: 6px 0 12px;
+            letter-spacing: 1px;
+        }
+
+        #control-panel .controls {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+
+        #play-btn {
+            background: #3498db;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            padding: 6px 16px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        #play-btn:hover {
+            background: #2980b9;
+        }
+
+        #time-slider {
+            flex: 1;
+            cursor: pointer;
+        }
+
+        .legend {
+            margin-top: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 4px 0;
+            font-size: 13px;
+        }
+
+        .legend-dot {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            margin-right: 8px;
+            flex-shrink: 0;
+        }
+
+        .stats {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.15);
+            font-size: 13px;
+        }
+
+        .stats div {
+            margin: 3px 0;
+        }
+
+        .stats span {
+            float: right;
+            font-weight: 600;
+        }
+
+        .sensor-count {
+            margin-top: 8px;
+            font-size: 12px;
+            color: rgba(255,255,255,0.6);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <div id="control-panel">
+        <h2>Madrid Traffic Sensors</h2>
+        <div class="time-display" id="time-display">00:00</div>
+        <div class="controls">
+            <button id="play-btn">▶ Play</button>
+            <input type="range" id="time-slider" min="0" max="95" value="0" />
+        </div>
+        <div class="legend">
+            <div class="legend-item"><div class="legend-dot" style="background:#2ecc71"></div>Low (0–200 v/h)</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#f1c40f"></div>Medium (200–500 v/h)</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#e67e22"></div>High (500–800 v/h)</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#e74c3c"></div>Very High (800+ v/h)</div>
+        </div>
+        <div class="stats" id="stats">
+            <div>Min intensity: <span id="stat-min">—</span></div>
+            <div>Max intensity: <span id="stat-max">—</span></div>
+            <div>Avg intensity: <span id="stat-avg">—</span></div>
+        </div>
+        <div class="sensor-count" id="sensor-count"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.js"></script>
+    <script src="madrid-traffic.js"></script>
+</body>
+</html>

@@ -1,0 +1,5405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71396616510212,
+          40.439020177168
+        ]
+      },
+      "properties": {
+        "id": "3397",
+        "name": "Calle de Cea Bermúdez",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74104970538462,
+          40.3734673839435
+        ]
+      },
+      "properties": {
+        "id": "3405",
+        "name": "Avenida de los Poblados",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70740510632971,
+          40.4461188807384
+        ]
+      },
+      "properties": {
+        "id": "3411",
+        "name": "Avenida de Pablo Iglesias",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65988684515672,
+          40.4385643941342
+        ]
+      },
+      "properties": {
+        "id": "3414",
+        "name": "Calzada lateral M-30",
+        "highway": "motorway_link",
+        "lanes": "3.0",
+        "maxspeed": "90.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6611516234092,
+          40.4375394277803
+        ]
+      },
+      "properties": {
+        "id": "3415",
+        "name": "Avenida de Brasilia",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71642069568208,
+          40.4054727630018
+        ]
+      },
+      "properties": {
+        "id": "3417",
+        "name": "Paseo Imperial",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71515519030971,
+          40.4050763948414
+        ]
+      },
+      "properties": {
+        "id": "3418",
+        "name": "Paseo de los Pontones",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77756506750291,
+          40.4496091415263
+        ]
+      },
+      "properties": {
+        "id": "3419",
+        "name": "Calle Valle del Pas",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70276447576911,
+          40.4550061992108
+        ]
+      },
+      "properties": {
+        "id": "3424",
+        "name": "Calle de Bravo Murillo",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6124736583785,
+          40.4211524437555
+        ]
+      },
+      "properties": {
+        "id": "3431",
+        "name": "Calle Toscana",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66009370529784,
+          40.5007813037364
+        ]
+      },
+      "properties": {
+        "id": "3432",
+        "name": "Avenida de Burgos",
+        "highway": "tertiary_link",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68279738823662,
+          40.4375915170201
+        ]
+      },
+      "properties": {
+        "id": "3435",
+        "name": "Calle de María de Molina",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67724867071629,
+          40.3908754198131
+        ]
+      },
+      "properties": {
+        "id": "3436",
+        "name": "Avenida de la Paz",
+        "highway": "motorway",
+        "lanes": "4.0",
+        "maxspeed": "90.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72545229589004,
+          40.425797002579
+        ]
+      },
+      "properties": {
+        "id": "3438",
+        "name": "Glorieta de San Antonio de la Florida",
+        "highway": "tertiary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71861771510636,
+          40.410021613015
+        ]
+      },
+      "properties": {
+        "id": "3444",
+        "name": "Paseo de los Melancólicos",
+        "highway": "tertiary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67699164155815,
+          40.4575212029983
+        ]
+      },
+      "properties": {
+        "id": "3452",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6919879274058,
+          40.4654244202175
+        ]
+      },
+      "properties": {
+        "id": "3453",
+        "name": "Calle de Bravo Murillo",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66812541896716,
+          40.4939378723717
+        ]
+      },
+      "properties": {
+        "id": "3457",
+        "name": "Avenida de Burgos",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66832083912492,
+          40.4955427971221
+        ]
+      },
+      "properties": {
+        "id": "3459",
+        "name": "Calle de Puerto de Somport",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7158881132926,
+          40.4404431003984
+        ]
+      },
+      "properties": {
+        "id": "3468",
+        "name": "Paseo de San Francisco de Sales",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73287579009364,
+          40.4313198111849
+        ]
+      },
+      "properties": {
+        "id": "3470",
+        "name": "Calle de Loeches",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71291395429938,
+          40.4084723860625
+        ]
+      },
+      "properties": {
+        "id": "3475",
+        "name": "Gran Vía de San Francisco",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7104255828302,
+          40.4065054337083
+        ]
+      },
+      "properties": {
+        "id": "3477",
+        "name": "Ronda de Toledo",
+        "highway": "primary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71407466935739,
+          40.3736928158177
+        ]
+      },
+      "properties": {
+        "id": "3480",
+        "name": "Avenida de los Poblados",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62359578211349,
+          40.3840172168648
+        ]
+      },
+      "properties": {
+        "id": "3482",
+        "name": "Avenida de la Gran Vía del Este",
+        "highway": "residential",
+        "lanes": "3.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71255630982681,
+          40.4003657375479
+        ]
+      },
+      "properties": {
+        "id": "3507",
+        "name": "Paseo de Yeserías/Calle 30",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61855363029225,
+          40.4564848019594
+        ]
+      },
+      "properties": {
+        "id": "3508",
+        "name": "Avenida de los Andes",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70691484098346,
+          40.4470855771301
+        ]
+      },
+      "properties": {
+        "id": "3513",
+        "name": "Avenida de la Reina Victoria",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68886869545745,
+          40.4157298807288
+        ]
+      },
+      "properties": {
+        "id": "3523",
+        "name": "Calle de Alfonso XII",
+        "highway": "tertiary_link",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61306833571022,
+          40.4205576006152
+        ]
+      },
+      "properties": {
+        "id": "3529",
+        "name": "Calle de Aquitania",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68859456595845,
+          40.4325205220297
+        ]
+      },
+      "properties": {
+        "id": "3562",
+        "name": "Paseo de la Castellana",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69191812447818,
+          40.364575658043
+        ]
+      },
+      "properties": {
+        "id": "3569",
+        "name": "Avenida de Orovilla",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77542488149566,
+          40.4521715087961
+        ]
+      },
+      "properties": {
+        "id": "3570",
+        "name": "Calle del Arroyo de Pozuelo",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68793072253055,
+          40.4250275376413
+        ]
+      },
+      "properties": {
+        "id": "3578",
+        "name": "Calle de Serrano",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67337644954455,
+          40.4584440492236
+        ]
+      },
+      "properties": {
+        "id": "3580",
+        "name": "Calle de Costa Rica",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69603075433064,
+          40.401968703419
+        ]
+      },
+      "properties": {
+        "id": "3586",
+        "name": "Calle de las Canarias",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71278434721533,
+          40.4692736628222
+        ]
+      },
+      "properties": {
+        "id": "3589",
+        "name": "Calle de Sinesio Delgado",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66950851839627,
+          40.4161205654423
+        ]
+      },
+      "properties": {
+        "id": "3603",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77904696211401,
+          40.4588082366233
+        ]
+      },
+      "properties": {
+        "id": "3626",
+        "name": "Carretera de Húmera",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77908111278272,
+          40.4587297581892
+        ]
+      },
+      "properties": {
+        "id": "3627",
+        "name": "Carretera de Húmera",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69990308862975,
+          40.3841280179027
+        ]
+      },
+      "properties": {
+        "id": "3632",
+        "name": "Calle del Santuario",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71668691525313,
+          40.3877258355239
+        ]
+      },
+      "properties": {
+        "id": "3634",
+        "name": "Calle de Antonio Leyva",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76367071769149,
+          40.3844209671977
+        ]
+      },
+      "properties": {
+        "id": "3636",
+        "name": "Avenida de Las Águilas",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71309988966634,
+          40.4532214428537
+        ]
+      },
+      "properties": {
+        "id": "3638",
+        "name": "Calle de Numancia",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62488832482316,
+          40.4168837152481
+        ]
+      },
+      "properties": {
+        "id": "3646",
+        "name": "Calle de la Fuente Carrantona",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64543551806178,
+          40.4260111432731
+        ]
+      },
+      "properties": {
+        "id": "3648",
+        "name": "Avenida de Daroca",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71776854324245,
+          40.4203290993232
+        ]
+      },
+      "properties": {
+        "id": "3650",
+        "name": "Cuesta de San Vicente",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68872240378811,
+          40.4118527103116
+        ]
+      },
+      "properties": {
+        "id": "3654",
+        "name": "Calle de Alfonso XII",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61591989882105,
+          40.4575496749504
+        ]
+      },
+      "properties": {
+        "id": "3657",
+        "name": "Calle de Manuel Azaña",
+        "highway": "motorway",
+        "lanes": "3.0",
+        "maxspeed": "100.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69882938699164,
+          40.4568698568065
+        ]
+      },
+      "properties": {
+        "id": "3667",
+        "name": "Calle de San Germán",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69043647943342,
+          40.4198203367366
+        ]
+      },
+      "properties": {
+        "id": "3671",
+        "name": "Calle de Alcalá",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70713558564493,
+          40.4210698409779
+        ]
+      },
+      "properties": {
+        "id": "3672",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69209724136598,
+          40.4329488311541
+        ]
+      },
+      "properties": {
+        "id": "3674",
+        "name": "Paseo de Eduardo Dato",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73073207266916,
+          40.4298040576187
+        ]
+      },
+      "properties": {
+        "id": "3675",
+        "name": "Avenida de Valladolid",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.731411224765,
+          40.4306897579119
+        ]
+      },
+      "properties": {
+        "id": "3676",
+        "name": "Avenida de Valladolid",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70364388882738,
+          40.4794323368933
+        ]
+      },
+      "properties": {
+        "id": "3677",
+        "name": "Avenida de Monforte de Lemos",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72057456390017,
+          40.4744310761292
+        ]
+      },
+      "properties": {
+        "id": "3678",
+        "name": "Calle Juan Sánchez",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73097455345795,
+          40.3882688277213
+        ]
+      },
+      "properties": {
+        "id": "3685",
+        "name": "Glorieta del Valle de Oro",
+        "highway": "secondary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72974674549277,
+          40.3869804978427
+        ]
+      },
+      "properties": {
+        "id": "3687",
+        "name": "Calle Luis Gómez",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66761867448004,
+          40.4442645210507
+        ]
+      },
+      "properties": {
+        "id": "3689",
+        "name": "Calle de Santa Hortensia",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6932066189277,
+          40.4120617913822
+        ]
+      },
+      "properties": {
+        "id": "3691",
+        "name": "Paseo del Prado",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62199748602708,
+          40.4337160174274
+        ]
+      },
+      "properties": {
+        "id": "3698",
+        "name": "Calle de Miguel Yuste",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66083868118067,
+          40.5023388421268
+        ]
+      },
+      "properties": {
+        "id": "3699",
+        "name": "Avenida de Niceto Alcalá Zamora/Avenida de Santo Domingo de la Calzada",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66886278320787,
+          40.5067539663367
+        ]
+      },
+      "properties": {
+        "id": "3700",
+        "name": "Calle de Redecilla del Camino",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71282385837437,
+          40.4151607752587
+        ]
+      },
+      "properties": {
+        "id": "3707",
+        "name": "Calle Mayor",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71940109627801,
+          40.4379050958099
+        ]
+      },
+      "properties": {
+        "id": "3715",
+        "name": "Avenida de los Reyes Católicos",
+        "highway": "primary_link",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71968921136638,
+          40.4378880645109
+        ]
+      },
+      "properties": {
+        "id": "3716",
+        "name": "Avenida de los Reyes Católicos",
+        "highway": "primary_link",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68415748969854,
+          40.4240915287305
+        ]
+      },
+      "properties": {
+        "id": "3720",
+        "name": "Calle de Velázquez",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66553052325625,
+          40.4182560354179
+        ]
+      },
+      "properties": {
+        "id": "3724",
+        "name": "Calle de Juan Esplandiú",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70201907619858,
+          40.4200202030484
+        ]
+      },
+      "properties": {
+        "id": "3730",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70805715808667,
+          40.4609358044487
+        ]
+      },
+      "properties": {
+        "id": "3734",
+        "name": "Calle de Villaamil",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71655045336326,
+          40.3863482750687
+        ]
+      },
+      "properties": {
+        "id": "3742",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67227432895924,
+          40.4585012709461
+        ]
+      },
+      "properties": {
+        "id": "3744",
+        "name": "Calle de Costa Rica",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71753368004929,
+          40.4324627559006
+        ]
+      },
+      "properties": {
+        "id": "3745",
+        "name": "Calle de la Princesa",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69865755352027,
+          40.4317067345515
+        ]
+      },
+      "properties": {
+        "id": "3748",
+        "name": "Calle de Luchana",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64772037477915,
+          40.385336253466
+        ]
+      },
+      "properties": {
+        "id": "3754",
+        "name": "Avenida de Palomeras",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62452104617326,
+          40.4415851351732
+        ]
+      },
+      "properties": {
+        "id": "3756",
+        "name": "Calle de Alcalá",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68337955691557,
+          40.4341935995873
+        ]
+      },
+      "properties": {
+        "id": "3757",
+        "name": "Calle de Velázquez",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60740004290456,
+          40.4357594512293
+        ]
+      },
+      "properties": {
+        "id": "3760",
+        "name": "Plaza de Grecia",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67633497533068,
+          40.4171675447777
+        ]
+      },
+      "properties": {
+        "id": "3764",
+        "name": "Calle de Narváez",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76631612572734,
+          40.3895218739092
+        ]
+      },
+      "properties": {
+        "id": "3771",
+        "name": "Avenida de los Poblados",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6239549439771,
+          40.4565422589772
+        ]
+      },
+      "properties": {
+        "id": "3784",
+        "name": "Avenida de Machupichu",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69722133164161,
+          40.5022921033064
+        ]
+      },
+      "properties": {
+        "id": "3789",
+        "name": "Avenida de Montecarmelo",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69454146996251,
+          40.4575531009265
+        ]
+      },
+      "properties": {
+        "id": "3790",
+        "name": "Calle de Orense",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66472241858736,
+          40.5048033069913
+        ]
+      },
+      "properties": {
+        "id": "3795",
+        "name": "Calle de Valcarlos",
+        "highway": "residential",
+        "lanes": "3.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66782624496949,
+          40.4946964331652
+        ]
+      },
+      "properties": {
+        "id": "3796",
+        "name": "Avenida de Burgos",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6944785238246,
+          40.3698054186169
+        ]
+      },
+      "properties": {
+        "id": "3802",
+        "name": "Avenida de Andalucía",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69480994300588,
+          40.3724008458664
+        ]
+      },
+      "properties": {
+        "id": "3803",
+        "name": "Avenida de Andalucía",
+        "highway": "trunk",
+        "lanes": "3.0",
+        "maxspeed": "70.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7031916787244,
+          40.4292047628742
+        ]
+      },
+      "properties": {
+        "id": "3807",
+        "name": "Calle de Carranza",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63108901576633,
+          40.3995970896132
+        ]
+      },
+      "properties": {
+        "id": "3809",
+        "name": "Calle de la Hacienda de Pavones",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74206655409271,
+          40.4757509818717
+        ]
+      },
+      "properties": {
+        "id": "3813",
+        "name": "Calle Arroyofresno",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62589038799545,
+          40.4065617716746
+        ]
+      },
+      "properties": {
+        "id": "3833",
+        "name": "Avenida del Doctor García Tapia",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917268449043,
+          40.4221320929972
+        ]
+      },
+      "properties": {
+        "id": "3842",
+        "name": "Paseo de Recoletos",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69192878230734,
+          40.4214333442836
+        ]
+      },
+      "properties": {
+        "id": "3843",
+        "name": "Paseo de Recoletos",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68846965033102,
+          40.4337820578943
+        ]
+      },
+      "properties": {
+        "id": "3844",
+        "name": "Paseo de la Castellana",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69099128548591,
+          40.4235122547331
+        ]
+      },
+      "properties": {
+        "id": "3845",
+        "name": "Paseo de Recoletos",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69840321012929,
+          40.4281637727028
+        ]
+      },
+      "properties": {
+        "id": "3846",
+        "name": "Calle de Manuel Silvela",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6692020015623,
+          40.4194437232749
+        ]
+      },
+      "properties": {
+        "id": "3856",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66924937368468,
+          40.417053366339
+        ]
+      },
+      "properties": {
+        "id": "3860",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66952096952619,
+          40.4137106378472
+        ]
+      },
+      "properties": {
+        "id": "3862",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66796677493739,
+          40.4065811540916
+        ]
+      },
+      "properties": {
+        "id": "3870",
+        "name": "Avenida del Mediterráneo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66716121793365,
+          40.4175270529398
+        ]
+      },
+      "properties": {
+        "id": "3875",
+        "name": "Calle del Alcalde Sáinz de Baranda",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66261608533599,
+          40.4109746466864
+        ]
+      },
+      "properties": {
+        "id": "3880",
+        "name": "Calzada lateral M-30",
+        "highway": "motorway",
+        "lanes": "5.0",
+        "maxspeed": "90.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66944537991919,
+          40.4146746011953
+        ]
+      },
+      "properties": {
+        "id": "3882",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66967366560014,
+          40.4141290529476
+        ]
+      },
+      "properties": {
+        "id": "3883",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66968363390644,
+          40.4117087996568
+        ]
+      },
+      "properties": {
+        "id": "3884",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66984019831238,
+          40.4099851789427
+        ]
+      },
+      "properties": {
+        "id": "3886",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67580327025719,
+          40.4072803424337
+        ]
+      },
+      "properties": {
+        "id": "3899",
+        "name": "Avenida del Mediterráneo",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67577145627602,
+          40.4059825603449
+        ]
+      },
+      "properties": {
+        "id": "3908",
+        "name": "Calle de Cavanilles",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68012872841603,
+          40.4516187766054
+        ]
+      },
+      "properties": {
+        "id": "3909",
+        "name": "Avenida de Concha Espina",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67570449112669,
+          40.4516655881381
+        ]
+      },
+      "properties": {
+        "id": "3910",
+        "name": "Avenida de Ramón y Cajal",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67768229804357,
+          40.4501704343801
+        ]
+      },
+      "properties": {
+        "id": "3911",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67745115195773,
+          40.453104617895
+        ]
+      },
+      "properties": {
+        "id": "3913",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67676064970623,
+          40.4516185756358
+        ]
+      },
+      "properties": {
+        "id": "3914",
+        "name": "Avenida de Ramón y Cajal",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67770082714543,
+          40.4508872358566
+        ]
+      },
+      "properties": {
+        "id": "3915",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67860097177425,
+          40.451633619947
+        ]
+      },
+      "properties": {
+        "id": "3916",
+        "name": "Avenida de Concha Espina",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66647243580769,
+          40.4522742940713
+        ]
+      },
+      "properties": {
+        "id": "3919",
+        "name": "Avenida de Ramón y Cajal",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66548952151846,
+          40.45200131359
+        ]
+      },
+      "properties": {
+        "id": "3922",
+        "name": "Calle del Padre Claret",
+        "highway": "residential",
+        "lanes": "5.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68376159061497,
+          40.4456759385189
+        ]
+      },
+      "properties": {
+        "id": "3925",
+        "name": "Avenida del Doctor Arce",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68009432398302,
+          40.4517117756717
+        ]
+      },
+      "properties": {
+        "id": "3926",
+        "name": "Avenida de Concha Espina",
+        "highway": "secondary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68445157175972,
+          40.4467783550979
+        ]
+      },
+      "properties": {
+        "id": "3930",
+        "name": "Calle de Serrano",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69154697769176,
+          40.4195110440067
+        ]
+      },
+      "properties": {
+        "id": "3936",
+        "name": "Calle de Alcalá",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68645202073543,
+          40.4361929219924
+        ]
+      },
+      "properties": {
+        "id": "3937",
+        "name": "Calle del General Oráa",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68840397772139,
+          40.4255186306253
+        ]
+      },
+      "properties": {
+        "id": "3940",
+        "name": "Calle de Goya",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68617693112578,
+          40.4390922726163
+        ]
+      },
+      "properties": {
+        "id": "3941",
+        "name": "Calle de Serrano",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68684864655312,
+          40.4313764871973
+        ]
+      },
+      "properties": {
+        "id": "3944",
+        "name": "Calle de Serrano",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68373324459304,
+          40.4433976485901
+        ]
+      },
+      "properties": {
+        "id": "3949",
+        "name": "Calle de Joaquín Costa",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.681088982451,
+          40.4410725159087
+        ]
+      },
+      "properties": {
+        "id": "3951",
+        "name": "Calle de Francisco Silvela",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67862084820446,
+          40.4428735105375
+        ]
+      },
+      "properties": {
+        "id": "3952",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68284685935483,
+          40.4406114802534
+        ]
+      },
+      "properties": {
+        "id": "3956",
+        "name": "Calle de Velázquez",
+        "highway": "secondary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68324956522502,
+          40.4362655025405
+        ]
+      },
+      "properties": {
+        "id": "3959",
+        "name": "Calle de Velázquez",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6837239093381,
+          40.4377485343977
+        ]
+      },
+      "properties": {
+        "id": "3960",
+        "name": "Calle de María de Molina",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68228659510473,
+          40.4393976722494
+        ]
+      },
+      "properties": {
+        "id": "3961",
+        "name": "Calle de López de Hoyos",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68520909333848,
+          40.4328360080012
+        ]
+      },
+      "properties": {
+        "id": "3963",
+        "name": "Calle de Juan Bravo",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68359880154853,
+          40.4316540529982
+        ]
+      },
+      "properties": {
+        "id": "3964",
+        "name": "Calle de Padilla",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68193369454165,
+          40.4376408900171
+        ]
+      },
+      "properties": {
+        "id": "3967",
+        "name": "Calle de María de Molina",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67836723025934,
+          40.4381340918482
+        ]
+      },
+      "properties": {
+        "id": "3970",
+        "name": "Calle de Francisco Silvela",
+        "highway": "residential",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67771118492441,
+          40.4378724603545
+        ]
+      },
+      "properties": {
+        "id": "3974",
+        "name": "Calle de Francisco Silvela",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68026857297625,
+          40.4400194730467
+        ]
+      },
+      "properties": {
+        "id": "3976",
+        "name": "Calle de Francisco Silvela",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67962515842915,
+          40.439717678582
+        ]
+      },
+      "properties": {
+        "id": "3977",
+        "name": "Calle de Francisco Silvela",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68319060937452,
+          40.4362407094515
+        ]
+      },
+      "properties": {
+        "id": "3982",
+        "name": "Calle de Velázquez",
+        "highway": "secondary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67356576319962,
+          40.4338211604945
+        ]
+      },
+      "properties": {
+        "id": "3995",
+        "name": "Calle de Francisco Silvela",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67212257352481,
+          40.429728344796
+        ]
+      },
+      "properties": {
+        "id": "4000",
+        "name": "Calle de José Ortega y Gasset",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67826705603239,
+          40.4248808509668
+        ]
+      },
+      "properties": {
+        "id": "4002",
+        "name": "Calle de Goya",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67956726048191,
+          40.4315175091486
+        ]
+      },
+      "properties": {
+        "id": "4009",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67969524920354,
+          40.4313167499437
+        ]
+      },
+      "properties": {
+        "id": "4010",
+        "name": "Calle de Padilla",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67977626883306,
+          40.4290210289434
+        ]
+      },
+      "properties": {
+        "id": "4011",
+        "name": "Calle de Don Ramón de la Cruz",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "20.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66096583329576,
+          40.4323350418362
+        ]
+      },
+      "properties": {
+        "id": "4018",
+        "name": "Calzada lateral M-30",
+        "highway": "motorway_link",
+        "lanes": "2.0",
+        "maxspeed": "90.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6781656430996,
+          40.4236451200692
+        ]
+      },
+      "properties": {
+        "id": "4021",
+        "name": "Calle de Jorge Juan",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66291240214579,
+          40.4308545421348
+        ]
+      },
+      "properties": {
+        "id": "4025",
+        "name": "Calle de Alcalá",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68338794361065,
+          40.4211446956205
+        ]
+      },
+      "properties": {
+        "id": "4027",
+        "name": "Calle de Alcalá",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66649379554405,
+          40.4292174043987
+        ]
+      },
+      "properties": {
+        "id": "4031",
+        "name": "Calle de Alcalá",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66416148328356,
+          40.4312012326321
+        ]
+      },
+      "properties": {
+        "id": "4037",
+        "name": "Calle de Julio Camba",
+        "highway": "tertiary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67081892760043,
+          40.4245198537924
+        ]
+      },
+      "properties": {
+        "id": "4040",
+        "name": "Calle de Goya",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67587897720317,
+          40.4231721625565
+        ]
+      },
+      "properties": {
+        "id": "4041",
+        "name": "Calle de Narváez",
+        "highway": "tertiary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67587132737107,
+          40.4225612272633
+        ]
+      },
+      "properties": {
+        "id": "4042",
+        "name": "Calle de Narváez",
+        "highway": "tertiary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68033429271479,
+          40.4235259002686
+        ]
+      },
+      "properties": {
+        "id": "4045",
+        "name": "Calle del Príncipe de Vergara",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68345711513287,
+          40.4210109627321
+        ]
+      },
+      "properties": {
+        "id": "4048",
+        "name": "Calle de ODonnell/Túnel de ODonnell",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66899821257803,
+          40.4228169061096
+        ]
+      },
+      "properties": {
+        "id": "4049",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66742929070934,
+          40.4208904260657
+        ]
+      },
+      "properties": {
+        "id": "4051",
+        "name": "Calle de ODonnell",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67454880608323,
+          40.4214985058757
+        ]
+      },
+      "properties": {
+        "id": "4052",
+        "name": "Calle de ODonnell",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67773489329374,
+          40.4216469904522
+        ]
+      },
+      "properties": {
+        "id": "4053",
+        "name": "Calle de ODonnell/Túnel de ODonnell",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67057524516276,
+          40.4212513473789
+        ]
+      },
+      "properties": {
+        "id": "4056",
+        "name": "Calle de ODonnell",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67523426481425,
+          40.418293008102
+        ]
+      },
+      "properties": {
+        "id": "4057",
+        "name": "Calle de Ibiza",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66866674777923,
+          40.4237717399371
+        ]
+      },
+      "properties": {
+        "id": "4059",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67710653719806,
+          40.4135218703595
+        ]
+      },
+      "properties": {
+        "id": "4060",
+        "name": "Avenida de Menéndez Pelayo",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67987739170182,
+          40.4211597821675
+        ]
+      },
+      "properties": {
+        "id": "4068",
+        "name": "Avenida de Menéndez Pelayo",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68008829218404,
+          40.4218334449115
+        ]
+      },
+      "properties": {
+        "id": "4071",
+        "name": "Avenida de Menéndez Pelayo",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67197967922675,
+          40.421377699754
+        ]
+      },
+      "properties": {
+        "id": "4075",
+        "name": "Calle de ODonnell",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67406783431638,
+          40.421405065187
+        ]
+      },
+      "properties": {
+        "id": "4076",
+        "name": "Calle de ODonnell",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69517539475356,
+          40.389619278792
+        ]
+      },
+      "properties": {
+        "id": "4080",
+        "name": "Calle Maestro Arbós",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69652242669068,
+          40.3901458528308
+        ]
+      },
+      "properties": {
+        "id": "4081",
+        "name": "Puente de Andalucía/Calle del Vado de Santa Catalina",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6962905425251,
+          40.3919913084597
+        ]
+      },
+      "properties": {
+        "id": "4082",
+        "name": "Paseo de la Chopera",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69666335395619,
+          40.3969139020565
+        ]
+      },
+      "properties": {
+        "id": "4090",
+        "name": "Calle de Embajadores",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69159039109825,
+          40.389041216719
+        ]
+      },
+      "properties": {
+        "id": "4097",
+        "name": "Túnel de Embajadores",
+        "highway": "motorway_link",
+        "lanes": "1.0",
+        "maxspeed": "60.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69112175650563,
+          40.3879794361764
+        ]
+      },
+      "properties": {
+        "id": "4104",
+        "name": "Túnel de Embajadores",
+        "highway": "motorway_link",
+        "lanes": "1.0",
+        "maxspeed": "60.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68958697832774,
+          40.3862829169128
+        ]
+      },
+      "properties": {
+        "id": "4105",
+        "name": "Calle de Embajadores",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69186378645883,
+          40.3927611309392
+        ]
+      },
+      "properties": {
+        "id": "4109",
+        "name": "Calle del Hierro",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69343210580789,
+          40.40535690942
+        ]
+      },
+      "properties": {
+        "id": "4110",
+        "name": "Calle de Murcia",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69366785150257,
+          40.4033059270032
+        ]
+      },
+      "properties": {
+        "id": "4112",
+        "name": "Paseo de las Delicias",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69395417225718,
+          40.4010617531516
+        ]
+      },
+      "properties": {
+        "id": "4113",
+        "name": "Paseo de las Delicias",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69568192676029,
+          40.4008835982391
+        ]
+      },
+      "properties": {
+        "id": "4114",
+        "name": "Calle del Ferrocarril",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.695424170247,
+          40.3985647986569
+        ]
+      },
+      "properties": {
+        "id": "4117",
+        "name": "Calle de Cáceres",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69463249285416,
+          40.395201784843
+        ]
+      },
+      "properties": {
+        "id": "4119",
+        "name": "Paseo de las Delicias",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6959128403922,
+          40.3940049195549
+        ]
+      },
+      "properties": {
+        "id": "4123",
+        "name": "Calle de Guillermo de Osma",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69563910356744,
+          40.3954465972213
+        ]
+      },
+      "properties": {
+        "id": "4124",
+        "name": "Calle de Embajadores",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67895259917962,
+          40.3945851243571
+        ]
+      },
+      "properties": {
+        "id": "4132",
+        "name": "Calle de Méndez Álvaro",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67660655695542,
+          40.3938727269535
+        ]
+      },
+      "properties": {
+        "id": "4134",
+        "name": "Calle de la Retama",
+        "highway": "residential",
+        "lanes": "4.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67693679304358,
+          40.392513235343
+        ]
+      },
+      "properties": {
+        "id": "4137",
+        "name": "Calle de Méndez Álvaro",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67387567217266,
+          40.3912541800461
+        ]
+      },
+      "properties": {
+        "id": "4141",
+        "name": "Avenida de Entrevías/Calle de Méndez Álvaro",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68167147962801,
+          40.3967512916289
+        ]
+      },
+      "properties": {
+        "id": "4154",
+        "name": "Calle de Méndez Álvaro",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69016794907998,
+          40.4153674325301
+        ]
+      },
+      "properties": {
+        "id": "4157",
+        "name": "Calle de Felipe IV",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68881736012061,
+          40.4141962511411
+        ]
+      },
+      "properties": {
+        "id": "4159",
+        "name": "Calle de Alfonso XII",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68729240519771,
+          40.4066076286832
+        ]
+      },
+      "properties": {
+        "id": "4164",
+        "name": "Paseo de la Infanta Isabel",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70484378815026,
+          40.3966416767276
+        ]
+      },
+      "properties": {
+        "id": "4169",
+        "name": "Paseo de Yeserías",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69562783396256,
+          40.4156300815821
+        ]
+      },
+      "properties": {
+        "id": "4170",
+        "name": "Plaza de las Cortes",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69294154170224,
+          40.4128300261473
+        ]
+      },
+      "properties": {
+        "id": "4173",
+        "name": "Paseo del Prado",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69438098083422,
+          40.4063743813915
+        ]
+      },
+      "properties": {
+        "id": "4174",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "tertiary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6943365817229,
+          40.4063554521399
+        ]
+      },
+      "properties": {
+        "id": "4175",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "tertiary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69648689128354,
+          40.4040365294859
+        ]
+      },
+      "properties": {
+        "id": "4179",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69839251982061,
+          40.4010221466481
+        ]
+      },
+      "properties": {
+        "id": "4180",
+        "name": "Calle del Ferrocarril",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69976104544736,
+          40.4005609746373
+        ]
+      },
+      "properties": {
+        "id": "4182",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70295409115312,
+          40.3968175625872
+        ]
+      },
+      "properties": {
+        "id": "4184",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66994418768707,
+          40.4090282329257
+        ]
+      },
+      "properties": {
+        "id": "4191",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67014910996911,
+          40.4082588713038
+        ]
+      },
+      "properties": {
+        "id": "4192",
+        "name": "Calle del Doctor Esquerdo",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66796577755009,
+          40.4066663598498
+        ]
+      },
+      "properties": {
+        "id": "4193",
+        "name": "Avenida del Mediterráneo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70021725587493,
+          40.3999269349453
+        ]
+      },
+      "properties": {
+        "id": "4194",
+        "name": "Paseo de Santa María de la Cabeza",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69332077728886,
+          40.4063023419
+        ]
+      },
+      "properties": {
+        "id": "4197",
+        "name": "Paseo de las Delicias",
+        "highway": "primary",
+        "lanes": "6.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70189544167045,
+          40.4135866691683
+        ]
+      },
+      "properties": {
+        "id": "4201",
+        "name": "Plaza del Ángel/Calle de San Sebastián",
+        "highway": "living_street",
+        "lanes": "1.0",
+        "maxspeed": "20.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70053807050934,
+          40.4130526557085
+        ]
+      },
+      "properties": {
+        "id": "4203",
+        "name": "Calle de Atocha",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69326466966827,
+          40.4096753321266
+        ]
+      },
+      "properties": {
+        "id": "4206",
+        "name": "Calle de Atocha",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7006014724137,
+          40.405532898867
+        ]
+      },
+      "properties": {
+        "id": "4211",
+        "name": "Ronda de Valencia",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70171227930504,
+          40.4040715872178
+        ]
+      },
+      "properties": {
+        "id": "4213",
+        "name": "Calle de Embajadores",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7050315380046,
+          40.405401983222
+        ]
+      },
+      "properties": {
+        "id": "4216",
+        "name": "Ronda de Valencia/Ronda de Toledo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70688490867527,
+          40.403847053374
+        ]
+      },
+      "properties": {
+        "id": "4220",
+        "name": "Paseo de las Acacias",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70805775450228,
+          40.4041760230074
+        ]
+      },
+      "properties": {
+        "id": "4221",
+        "name": "Calle del Gasómetro",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70905205854322,
+          40.4032634213252
+        ]
+      },
+      "properties": {
+        "id": "4227",
+        "name": "Paseo de las Acacias",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71182899953963,
+          40.4020153860766
+        ]
+      },
+      "properties": {
+        "id": "4229",
+        "name": "Paseo de las Acacias",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70951850759256,
+          40.4062009070704
+        ]
+      },
+      "properties": {
+        "id": "4239",
+        "name": "Ronda de Toledo",
+        "highway": "primary_link",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69339821147348,
+          40.4173160153161
+        ]
+      },
+      "properties": {
+        "id": "4243",
+        "name": "Plaza de la Lealtad",
+        "highway": "residential",
+        "lanes": "4.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69889712237674,
+          40.4180473500447
+        ]
+      },
+      "properties": {
+        "id": "4252",
+        "name": "Calle de Alcalá",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71472927176963,
+          40.4151003864676
+        ]
+      },
+      "properties": {
+        "id": "4260",
+        "name": "Cuesta de la Vega/Calle Mayor",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71340406868761,
+          40.4092981742876
+        ]
+      },
+      "properties": {
+        "id": "4265",
+        "name": "Gran Vía de San Francisco",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71172367484345,
+          40.4241831207096
+        ]
+      },
+      "properties": {
+        "id": "4284",
+        "name": "Plaza de España",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70900699692898,
+          40.4221761762835
+        ]
+      },
+      "properties": {
+        "id": "4289",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71025511432192,
+          40.4230536024265
+        ]
+      },
+      "properties": {
+        "id": "4292",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70754424387476,
+          40.4212442957719
+        ]
+      },
+      "properties": {
+        "id": "4294",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708286927061,
+          40.4207009803295
+        ]
+      },
+      "properties": {
+        "id": "4295",
+        "name": "Calle de San Bernardo",
+        "highway": "residential",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70800212302534,
+          40.4206104065285
+        ]
+      },
+      "properties": {
+        "id": "4298",
+        "name": "Calle de Silva",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72147737857154,
+          40.4214403820746
+        ]
+      },
+      "properties": {
+        "id": "4304",
+        "name": "Paseo de la Florida",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69796917499602,
+          40.41923544901
+        ]
+      },
+      "properties": {
+        "id": "4308",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70006870407163,
+          40.419879746033
+        ]
+      },
+      "properties": {
+        "id": "4309",
+        "name": "Gran Vía",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71287762828913,
+          40.4222992695172
+        ]
+      },
+      "properties": {
+        "id": "4313",
+        "name": "Plaza de España/Calle de Ferraz",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71375087365709,
+          40.4215890562547
+        ]
+      },
+      "properties": {
+        "id": "4315",
+        "name": "Cuesta de San Vicente",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71484366525698,
+          40.4207357285303
+        ]
+      },
+      "properties": {
+        "id": "4317",
+        "name": "Cuesta de San Vicente",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71879039100463,
+          40.4342253136673
+        ]
+      },
+      "properties": {
+        "id": "4338",
+        "name": "Calle de la Princesa",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71723861555659,
+          40.430271806335
+        ]
+      },
+      "properties": {
+        "id": "4345",
+        "name": "Calle del Marqués de Urquijo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71443618370974,
+          40.4281465945118
+        ]
+      },
+      "properties": {
+        "id": "4349",
+        "name": "Calle de la Princesa",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71518903186489,
+          40.4292036066152
+        ]
+      },
+      "properties": {
+        "id": "4350",
+        "name": "Calle de Santa Cruz de Marcenado/Calle de la Princesa/Subterráneo de Princesa a Santa Cruz de Marcenado",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71485654281725,
+          40.4286052911919
+        ]
+      },
+      "properties": {
+        "id": "4351",
+        "name": "Calle de la Princesa",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71244863241916,
+          40.4254233953763
+        ]
+      },
+      "properties": {
+        "id": "4353",
+        "name": "Calle de la Princesa",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71339963785169,
+          40.4260317932954
+        ]
+      },
+      "properties": {
+        "id": "4355",
+        "name": "Calle de Ventura Rodríguez",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72304266226043,
+          40.4291054902123
+        ]
+      },
+      "properties": {
+        "id": "4362",
+        "name": "Calle de Francisco y Jacinto Alcántara",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72067425137731,
+          40.4292795480215
+        ]
+      },
+      "properties": {
+        "id": "4363",
+        "name": "Calle del Marqués de Urquijo",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71542641869995,
+          40.4252938778743
+        ]
+      },
+      "properties": {
+        "id": "4367",
+        "name": "Calle Luisa Fernanda",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71853790856866,
+          40.4299160651564
+        ]
+      },
+      "properties": {
+        "id": "4371",
+        "name": "Calle de Martín de los Heros",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71240402739184,
+          40.4303072777306
+        ]
+      },
+      "properties": {
+        "id": "4384",
+        "name": "Calle de Alberto Aguilera",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71554842917986,
+          40.4305281986079
+        ]
+      },
+      "properties": {
+        "id": "4385",
+        "name": "Calle de Alberto Aguilera",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70783102708239,
+          40.4297419392465
+        ]
+      },
+      "properties": {
+        "id": "4386",
+        "name": "Calle de Alberto Aguilera",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70988371720977,
+          40.4300378270577
+        ]
+      },
+      "properties": {
+        "id": "4388",
+        "name": "Calle de Alberto Aguilera",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70744170081916,
+          40.4251639165911
+        ]
+      },
+      "properties": {
+        "id": "4393",
+        "name": "Calle de San Bernardo",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70746335055862,
+          40.4232702384865
+        ]
+      },
+      "properties": {
+        "id": "4395",
+        "name": "Calle de San Bernardo",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "30.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70550873779779,
+          40.4349390350799
+        ]
+      },
+      "properties": {
+        "id": "4403",
+        "name": "Calle de Fernández de los Ríos",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70432944410874,
+          40.4348034453141
+        ]
+      },
+      "properties": {
+        "id": "4404",
+        "name": "Calle de Bravo Murillo",
+        "highway": "secondary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70384976573583,
+          40.4325705390356
+        ]
+      },
+      "properties": {
+        "id": "4406",
+        "name": "Calle de Fuencarral",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70473326729727,
+          40.4324384788342
+        ]
+      },
+      "properties": {
+        "id": "4408",
+        "name": "Calle de San Bernardo",
+        "highway": "secondary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70429211778783,
+          40.4358729659584
+        ]
+      },
+      "properties": {
+        "id": "4409",
+        "name": "Calle de Bravo Murillo",
+        "highway": "secondary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70162574528536,
+          40.4288518582468
+        ]
+      },
+      "properties": {
+        "id": "4417",
+        "name": "Calle de Sagasta",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70950853857601,
+          40.4388524542962
+        ]
+      },
+      "properties": {
+        "id": "4419",
+        "name": "Calle de Cea Bermúdez",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70646942765812,
+          40.4387421828236
+        ]
+      },
+      "properties": {
+        "id": "4421",
+        "name": "Calle de Cea Bermúdez",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70837444129294,
+          40.4375639377104
+        ]
+      },
+      "properties": {
+        "id": "4424",
+        "name": "Calle de Joaquín María López",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70750117738654,
+          40.4338788136299
+        ]
+      },
+      "properties": {
+        "id": "4425",
+        "name": "Calle de Fernando el Católico",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69465538605205,
+          40.4350448020826
+        ]
+      },
+      "properties": {
+        "id": "4428",
+        "name": "Paseo del General Martínez Campos",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68955235513563,
+          40.4330436357305
+        ]
+      },
+      "properties": {
+        "id": "4429",
+        "name": "Paseo de Eduardo Dato",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69170125789642,
+          40.4321945793769
+        ]
+      },
+      "properties": {
+        "id": "4432",
+        "name": "Calle de Almagro",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70203039813358,
+          40.4385655758282
+        ]
+      },
+      "properties": {
+        "id": "4433",
+        "name": "Calle de José Abascal",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6909904340241,
+          40.4390632069185
+        ]
+      },
+      "properties": {
+        "id": "4437",
+        "name": "Paseo de la Castellana",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68950172463141,
+          40.4363721417305
+        ]
+      },
+      "properties": {
+        "id": "4444",
+        "name": "Paseo de la Castellana",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70407118675844,
+          40.4431427480204
+        ]
+      },
+      "properties": {
+        "id": "4454",
+        "name": "Calle de Bravo Murillo",
+        "highway": "secondary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69592188225401,
+          40.4426519810812
+        ]
+      },
+      "properties": {
+        "id": "4457",
+        "name": "Calle de Modesto Lafuente",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69517624915626,
+          40.4416879195173
+        ]
+      },
+      "properties": {
+        "id": "4458",
+        "name": "Calle de Ríos Rosas",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69309342421698,
+          40.4413655018442
+        ]
+      },
+      "properties": {
+        "id": "4460",
+        "name": "Plaza de San Juan de la Cruz",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "20.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69141780169892,
+          40.4398896571484
+        ]
+      },
+      "properties": {
+        "id": "4461",
+        "name": "Paseo de la Castellana",
+        "highway": "primary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917490614588,
+          40.4425146736008
+        ]
+      },
+      "properties": {
+        "id": "4462",
+        "name": "Paseo de la Castellana",
+        "highway": "primary",
+        "lanes": "5.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72780386300086,
+          40.4268585037376
+        ]
+      },
+      "properties": {
+        "id": "4480",
+        "name": "Avenida de Valladolid",
+        "highway": "primary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73577815855406,
+          40.4359174705131
+        ]
+      },
+      "properties": {
+        "id": "4486",
+        "name": "Avenida de Valladolid",
+        "highway": "motorway_link",
+        "lanes": "1.0",
+        "maxspeed": "60.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.737605916016,
+          40.4343579530962
+        ]
+      },
+      "properties": {
+        "id": "4487",
+        "name": "Carretera de Castilla",
+        "highway": "trunk",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73190636835104,
+          40.4368899897721
+        ]
+      },
+      "properties": {
+        "id": "4489",
+        "name": "Calle Martín Fierro",
+        "highway": "secondary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71193020333765,
+          40.4528144988526
+        ]
+      },
+      "properties": {
+        "id": "4519",
+        "name": "Avenida de Pablo Iglesias",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71007591672326,
+          40.4713967599911
+        ]
+      },
+      "properties": {
+        "id": "4546",
+        "name": "Calle de Sinesio Delgado",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70971105633761,
+          40.4755935656985
+        ]
+      },
+      "properties": {
+        "id": "4553",
+        "name": "Calle de Melchor Fernández Almagro",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70313195152711,
+          40.4727405834941
+        ]
+      },
+      "properties": {
+        "id": "4563",
+        "name": "Calle de Sinesio Delgado",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70302431731683,
+          40.4757157658872
+        ]
+      },
+      "properties": {
+        "id": "4564",
+        "name": "Calle de Ginzo de Limia",
+        "highway": "secondary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68683945253448,
+          40.4763876933192
+        ]
+      },
+      "properties": {
+        "id": "4585",
+        "name": "Paseo de la Castellana",
+        "highway": "residential",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68776831671496,
+          40.4752580743258
+        ]
+      },
+      "properties": {
+        "id": "4593",
+        "name": "Avenida de Monforte de Lemos",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68716908916611,
+          40.4797196382788
+        ]
+      },
+      "properties": {
+        "id": "4599",
+        "name": "Calle del Arzobispo Morcillo",
+        "highway": "residential",
+        "lanes": "3.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6899606889723,
+          40.4792355818338
+        ]
+      },
+      "properties": {
+        "id": "4603",
+        "name": "Calle de Pedro Rico",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68320747398592,
+          40.4811339929901
+        ]
+      },
+      "properties": {
+        "id": "4608",
+        "name": "Calle de Mauricio Legendre",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6837756021997,
+          40.4764115370972
+        ]
+      },
+      "properties": {
+        "id": "4612",
+        "name": "Calle de Mauricio Legendre",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68455617622615,
+          40.475180467823
+        ]
+      },
+      "properties": {
+        "id": "4614",
+        "name": "Calle de Mauricio Legendre",
+        "highway": "tertiary",
+        "lanes": "1.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68411412447116,
+          40.4736812210951
+        ]
+      },
+      "properties": {
+        "id": "4615",
+        "name": "Calle del Padre Francisco Palau y Quer",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "40.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68678634479909,
+          40.4694792452679
+        ]
+      },
+      "properties": {
+        "id": "4618",
+        "name": "Calle de Mauricio Legendre",
+        "highway": "residential",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66736795678912,
+          40.4440102480855
+        ]
+      },
+      "properties": {
+        "id": "4637",
+        "name": "Calle del Corazón de María",
+        "highway": "tertiary",
+        "lanes": "3.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66626871699548,
+          40.4323908137795
+        ]
+      },
+      "properties": {
+        "id": "4656",
+        "name": "Avenida de los Toreros",
+        "highway": "tertiary",
+        "lanes": "4.0",
+        "maxspeed": "50.0",
+        "oneway": "False"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66158709599282,
+          40.4408707185614
+        ]
+      },
+      "properties": {
+        "id": "4679",
+        "name": "Calle Bristol",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66241876172928,
+          40.4408541572012
+        ]
+      },
+      "properties": {
+        "id": "4681",
+        "name": "Calle Bristol",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71228596982223,
+          40.4050684460202
+        ]
+      },
+      "properties": {
+        "id": "4697",
+        "name": "Calle de Toledo",
+        "highway": "primary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71176104495981,
+          40.399917812651
+        ]
+      },
+      "properties": {
+        "id": "4703",
+        "name": "Paseo de Yeserías",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70487126393656,
+          40.4131647504757
+        ]
+      },
+      "properties": {
+        "id": "4718",
+        "name": "Calle del Conde de Romanones",
+        "highway": "residential",
+        "lanes": "1.0",
+        "maxspeed": "30.0",
+        "oneway": "True"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71954537448837,
+          40.4646672505148
+        ]
+      },
+      "properties": {
+        "id": "4729",
+        "name": "Calle de Antonio Machado",
+        "highway": "tertiary",
+        "lanes": "2.0",
+        "maxspeed": "50.0",
+        "oneway": "True"
+      }
+    }
+  ]
+}
