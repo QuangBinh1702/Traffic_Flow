@@ -20,7 +20,6 @@ Thumbs.db
 
 # Large data files
 data_raw.csv
-data.csv
 sensors_scaled.json
 
 # Environment variables (nếu có)
